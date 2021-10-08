@@ -1,7 +1,6 @@
 # Windows Unity PCVR Sample
 
 RICOH Live Streaming Client SDK for Windows を使用した Windows Unity PCVR サンプルアプリケーションです。
-使用にあたってはソフトウェア使用許諾契約書の第１０条を特に注意してご確認ください。
 
 サービスのご利用には、API利用規約への同意とアカウントの登録、ソフトウェア利用許諾書への同意が必要です。
 詳細は下記Webサイトをご確認ください。
